@@ -1,12 +1,9 @@
-# Hi there! I'm Amar Adi Ismoyo 👋
-### Android Developer
+# Hi there!👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Looking%20for%20Opportunities-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Android%20%26%20Mobile%20Engineering-blue?style=flat-square" />
 </p>
-
-I'm an Android Developer passionate about building robust, scalable, and user-friendly mobile applications. Currently finishing my studies while actively developing an **English Pronunciation App** and exploring modern tech stacks to broaden my engineering perspective.
 
 ---
 
@@ -38,17 +35,6 @@ I'm an Android Developer passionate about building robust, scalable, and user-fr
   <img src="https://github-readme-stats.shion.dev/api?username=amaradism&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"  />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amaradism&theme=github_dark&hide_border=false&layout=compact" />
   <img src="https://streak-stats.demolab.com/?user=amaradism&theme=github_dark&hide_border=false" />
-</p>
-
----
-
-### ☎️ Get in Touch
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/amaradiismoyo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" /></a>
-  <a href="mailto:amaradiismoyo@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logoColor=white" /></a>
-  <!-- <a href="link cv"><img src="https://img.shields.io/badge/Resume-0078D4?style=for-the-badge&logoColor=white" /></a> -->
-
 </p>
 
 ---
