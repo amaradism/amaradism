@@ -1,4 +1,4 @@
-# Hi there!👋
+![Header Banner](assets/images/header-banner.png)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Looking%20for%20Opportunities-green?style=flat-square" />
